@@ -5,8 +5,8 @@ Building agentic AI applications for serious reading and research.
 - **UX**: make citations first class, interactive, and seamlessly integrated with the source media.
 
 ### What I am building
-- **minerva-reader**: AI book reader focusing on in-depth study of philosophy and history
-- **book-rag-eval**: standalone eval suite for minerva-reader
+- **[minervareader.com](https://minervareader.com)**: AI book reader focusing on in-depth study of philosophy and history
+- **[book-rag-eval](https://github.com/babinchak/book-rag-eval)**: standalone eval suite for minerva-reader
 
 ### Exploring next
 - **Academic papers**: minerva-reader but with academic research focus, layout-aware PDF extraction, image embedding, citation graphs
