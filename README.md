@@ -1,7 +1,5 @@
-Agentic AI
-
-### Past Project
-- **[minervareader.com](https://minervareader.com)**: AI book reader focusing on in-depth study of philosophy and history
+### Past
+- **[minervareader.com](https://minervareader.com)**: agentic reading assistant in-book and across library
 
 ### Building
 - **[peico-bench](https://github.com/babinchak/peico-bench)**: Benchmark for LLM customer sales agent at a fictional insurance company
